@@ -1,6 +1,6 @@
 # Título del proyecto
 
-Metodologías
+## Metodologías
 
 [] Paso 1
 
