@@ -1,4 +1,4 @@
-# Título del proyecto e
+# Título del proyecto
 
 ## Metodologías
 
