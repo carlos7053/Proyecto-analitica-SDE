@@ -11,3 +11,5 @@ Paso 3: Diagnóstico del problema.
 Paso 4: Definición del problema en términos de analítica. ¿Cómo lo vamos a resolver?.
 
 Paso 5: Validación de datos.
+
+Paso 6: Evaluación del modelo.
