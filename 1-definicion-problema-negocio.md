@@ -1,4 +1,4 @@
-#deficnición del problema de negocio
+# Definición del problema de negocio
 
 ## Contexto
 
