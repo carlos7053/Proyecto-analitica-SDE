@@ -1,4 +1,4 @@
-# Selección de actividades de capacitación e información por demanda en los cedezos
+# Selección de actividades de capacitación e información por demanda en los Centros de Desarrollo Zonal Empresarial (CEDEZO)
 
 ## Metodologías
 
