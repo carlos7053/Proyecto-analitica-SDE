@@ -23,3 +23,9 @@ Paso 5: Validación de datos.
 Paso 6: Evaluación del modelo.
 
 Paso 7: Tener presente que si se pueda ejecutar en tres meses.
+
+*** IMPORTANTE *** 
+
+Trabajar con un modelo de regresión linea.
+
+******************
